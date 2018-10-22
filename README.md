@@ -10,6 +10,10 @@ Refer to Report.pdf for detailed explanation of project and its implementation.
 5. The detected humans are in the OutputImage folder and the hands cropped from the correctly classified images(clustering) are in the CropHands folder.
 6. The pretrained model is used in this step. The model can be retrained using the training data in JPEGImages folder. Some examples are shown in the directory. 
 
+<b>Team Members</b>
+1. Pratham Gupta
+2. Rajat Sharma
+
 References for code:
 1. https://pjreddie.com/darknet/yolo/
 2. https://github.com/eldar/pose-tensorflow
