@@ -1,5 +1,7 @@
 # Distracted-Pedestrian-Detection
 
+Refer to Report.pdf for detailed explanation of project and its implementation.
+
 1. Copy the testing image files to the Folder TestImage.
 2. Add the pretrained yolo model(darknet) to the directory.
 3. Run the file test.py<br>
